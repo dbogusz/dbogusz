@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Hi there 
 
-<!--
-**dbogusz/dbogusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Dominika. I’m a researcher with an experience in data analysis and Python programming. I’ve recently completed my PhD in Quantum Physics at Imperial College, during which I worked on an interdisciplinary project about single photon sources. I’m now motivated to transition to the data science industry,  bringing analytical skills, attention to detail and strong mathematical foundations to new challenges.
 
-Here are some ideas to get you started:
+### 📚 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my portfolio, where I showcase my [projects](https://github.com/dbogusz/Portfolio-Guide).
+
+### 🛠️ Tools
+
+- Language: Python, SQL, MATLAB, Java
+- Database: MySQL
+- Tools: AWS, Streamlit, Git
+
+### 💬 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/dpbogusz/) 
